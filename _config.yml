@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "张子杨 / Ph.D"
+title                    : "张子杨 / PhD"
 title_separator          : "-"
 name                     : &name "Ziyang Zhang (张子杨)"
-description              : &description "I'll be a Ph.D student of HUST(Huazhong University of Science and Technology) under the Prof. Xiang Bai."
+description              : &description "Ziyang Zhang's personal acadamic website."
 url                      : https://zenosai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zenosai.github.io"
@@ -21,7 +21,7 @@ repository               : "zenosai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : "Ziyang Zhang (张子杨)"
   pronouns         : # example: "she/her"  
   bio              : "We're all prisoners of our own perspectives."
